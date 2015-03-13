@@ -1,9 +1,1 @@
-[user]
-	name = Tiego3
-	email = tiego3m@gmail.com
-[core]
-	autocrlf = input
-[http]
-	proxy = http://213037041:goshetjeng3@10.60.4.201:3128
-[https]
-	proxy = http://213037041:goshetjeng3@10.60.4.201:3128
+
